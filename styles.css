@@ -1,4 +1,11 @@
 .hero-container {
     background-color: #1f2937;
+}
 
+.hero-secondary-right {
+    color: #e5e7eb;
+}
+
+.hero-secondary-left {
+    color: #f9faf8;
 }
