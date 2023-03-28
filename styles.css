@@ -2,16 +2,20 @@
     background-color: #1f2937;
 }
 
-.hero-secondary{
+.hero-secondary {
     display: flex;
+    justify-content: space-between;
+    margin: 0 112px 48px 112px;
 }
 
 .hero-secondary-right {
     color: #e5e7eb;
     font-size: 18px;
+    margin: auto 0
 }
 
 .hero-secondary-left {
     color: #f9faf8;
     font-size: 24px;
+    margin: auto 0;
 }
