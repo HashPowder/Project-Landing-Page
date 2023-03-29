@@ -5,7 +5,8 @@
 .hero-secondary {
     display: flex;
     justify-content: space-between;
-    margin: 0 112px 48px 112px;
+    flex: auto;
+    margin: 0 112px 0 112px;
 }
 
 .hero-secondary-right {
