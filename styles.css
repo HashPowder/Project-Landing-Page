@@ -38,8 +38,15 @@
 }
 
 .hero-main-right {
-    display: flex;
-    align-items: center;
+    /* display: flex;
+    align-items: center; */
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    max-height: 400px;
 }
 
 a {
@@ -47,12 +54,7 @@ a {
     color: #e5e7eb;
 }
 
-/* img {
-object-fit: contain;
-height: 400px;
-width: 800px;
-max-width: 100%;
-} */
+
 
 ul {
     list-style: none;
