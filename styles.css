@@ -27,7 +27,7 @@
 .hero-main {
     display: flex;
     align-items: center;
-    /* justify-content: space-around; */
+    justify-content: space-between;
     margin: auto 112px;
     color: #f9faf8;
 }
@@ -38,8 +38,8 @@
 }
 
 .hero-main-right {
-    /* display: flex;
-    align-items: center; */
+    display: flex;
+    align-items: center;
 }
 
 .responsive {
@@ -52,11 +52,4 @@
 a {
     text-decoration: none;
     color: #e5e7eb;
-}
-
-
-
-ul {
-    list-style: none;
-    padding: 0;
 }
