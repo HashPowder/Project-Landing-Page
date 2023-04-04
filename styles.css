@@ -112,6 +112,17 @@ text-align: center;
 
 .main-quote-section {
     background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-quote-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
 }
 
 .main-quote-body {
@@ -119,6 +130,13 @@ text-align: center;
     font-style: italic;
     font-weight: light;
     color: #1f2937;
+    margin: 56px 0 0 0;
+    
+}
+
+.main-quote-author {
+    align-self: end;
+    margin: 0 0 56px 0;
 }
 
 a {
