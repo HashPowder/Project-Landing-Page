@@ -139,10 +139,20 @@ text-align: center;
     margin: 0 0 56px 0;
 }
 
+.main-section-signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: ;
+}
+
 .main-section-signup-container {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 8px;
 }
 
 a {
