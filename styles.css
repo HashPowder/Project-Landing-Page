@@ -161,6 +161,16 @@ text-align: center;
     flex-direction: column;
 }
 
+.main-section-signup-text h2 {
+    margin: 24px 0 4px 48px;
+}
+
+.main-section-signup-text p {
+    margin: 4px 0 24px 48px;
+
+}
+
+
 .main-section-signup-button button{
     font-size: 14px;
     padding: 6px 36px;
