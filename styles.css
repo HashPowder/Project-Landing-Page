@@ -140,10 +140,8 @@ text-align: center;
 }
 
 .main-section-signup {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: ;
+    color: #f9faf8;
+    
 }
 
 .main-section-signup-container {
@@ -151,8 +149,12 @@ text-align: center;
     justify-content: space-around;
     align-items: center;
     background-color: #3882f6;
-    color: #f9faf8;
     border-radius: 8px;
+}
+
+.main-section-signup-container-text {
+    display: flex;
+    flex-direction: column;
 }
 
 a {
