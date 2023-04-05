@@ -47,6 +47,7 @@ body {
 .hero-main h1{
     font-size: 48px;
     font-weight: bold;
+    margin-block-end: 10px;
 }
 
 .hero-main-left {
